@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Conversor.Views.Convertir"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid Background="#FFDC7B">
+
+        <StackLayout VerticalOptions="Center" Margin="20">
+
+            <Image Source="https://i.ibb.co/6wfHWxZ/globo-terraqueo.png" Margin="40"/>
+
+            <Frame HasShadow="False"
+                   CornerRadius="15">
+                <Entry Keyboard="Numeric" 
+                       Placeholder="Centimetros (cm)"
+                       TextColor="Green"
+                       PlaceholderColor="Black"
+                       FontSize="Large"
+                       x:Name="txt_Numero"/>
+            </Frame>
+
+            <Button Text="Calcular"
+                    CornerRadius="10"
+                    TextTransform="None"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    Margin="0, 20, 0, 0"
+                    Background="#7354DD"
+                    x:Name="btn_Calcular"
+                    Clicked="btn_Calcular_Clicked"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Resultado: " 
+                       FontSize="Large"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       TextColor="#7E6647"/>
+                
+                <Label Text="0.00" 
+                       FontSize="Large"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       TextColor="#7E6647"
+                       x:Name="lbl_Resultado"/>
+            </StackLayout>
+
+            <Button x:Name="btn_Volver"
+                    Text="Volver"
+                    TextTransform="None"
+                    CornerRadius="10"
+                    Margin="0, 20, 0, 0"
+                    Background="#fff"
+                    TextColor="#000"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    Padding="40, 5"
+                    Clicked="btn_Volver_Clicked"/>
+
+        </StackLayout>
+
+    </Grid>
+    
+</ContentPage>

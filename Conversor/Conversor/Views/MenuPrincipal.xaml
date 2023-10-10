@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Conversor.Views.MenuPrincipal"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout Background="#FFE5B8">
+        
+        <Label Text="Conversor"
+               FontSize="40"
+               FontAttributes="Bold"
+               Margin="0, 20, 0, 0"
+               HorizontalOptions="Center"
+               TextColor="#7E6647"/>
+
+        <Frame VerticalOptions="FillAndExpand" 
+               Margin="20"
+               CornerRadius="20"
+               HasShadow="False">
+            
+            <StackLayout VerticalOptions="Center"
+                         Spacing="20">
+                
+                <Image Source="https://www.shutterstock.com/shutterstock/photos/676250194/display_1500/stock-vector-rock-night-party-poster-flyer-vintage-styled-vector-illustration-676250194.jpg" />
+
+                <Label Text="(cm) a (m)." 
+                       FontAttributes="Bold"
+                       TextColor="#7E6647"
+                       HorizontalOptions="Center"
+                       FontSize="30"/>
+
+                <Button x:Name="btn_Inicio"
+                    Text="Iniciar" TextTransform="None"
+                        Background="#FFDC7B" CornerRadius="15"
+                        FontSize="Medium"
+                        TextColor="#000"
+                        FontAttributes="Bold"
+                        Clicked="btn_Inicio_Clicked"/>
+                
+            </StackLayout>
+            
+        </Frame>
+        
+    </StackLayout>
+    
+</ContentPage>

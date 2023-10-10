@@ -1,0 +1,16 @@
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\bin\Debug\netstandard2.0\Conversor.deps.json
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\bin\Debug\netstandard2.0\Conversor.dll
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\bin\Debug\netstandard2.0\ref\Conversor.dll
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\bin\Debug\netstandard2.0\Conversor.pdb
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.csproj.AssemblyReference.cache
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.AssemblyInfo.cs
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.dll
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\refint\Conversor.dll
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.pdb
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Views\MenuPrincipal.xaml.g.cs
+C:\Users\siste\Documents\sistemas 2\Sln_Conversor\Conversor\Conversor\obj\Debug\netstandard2.0\Views\Convertir.xaml.g.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "evuPzYFKG+k98Ea3TC5otU2lh+TyvlYCpZ8n1tsZGitq8yKwlYkP56q4dr5MKAHUWKwU0HS7xwY0ZVupPT6K6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\siste\\Documents\\sistemas 2\\Sln_Conversor\\Conversor\\Conversor.iOS\\Conversor.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siste\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\siste\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\siste\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
